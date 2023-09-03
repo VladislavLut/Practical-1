@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-09-03T09:58:41.946Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="GTKOAn-a0_8CT4n0a4oU" version="21.7.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-09-03T10:04:09.328Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="CmmfJOoT-Hp8c9BmIrPz" version="21.7.2" type="github">
   <diagram name="Страница — 1" id="BWyhMlnwjMnEOyc5oKQd">
     <mxGraphModel dx="1500" dy="836" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -15,32 +15,23 @@
         <mxCell id="xWthVOKGzl0oUf63PXnG-1" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="410" y="10" width="24" height="24" as="geometry" />
         </mxCell>
-        <mxCell id="xWthVOKGzl0oUf63PXnG-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="xWthVOKGzl0oUf63PXnG-2" target="xWthVOKGzl0oUf63PXnG-3">
+        <mxCell id="xWthVOKGzl0oUf63PXnG-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="xWthVOKGzl0oUf63PXnG-2" target="xWthVOKGzl0oUf63PXnG-44">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="xWthVOKGzl0oUf63PXnG-2" value="Знайти кінотеатр" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="367" y="80" width="110" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="xWthVOKGzl0oUf63PXnG-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="xWthVOKGzl0oUf63PXnG-3" target="xWthVOKGzl0oUf63PXnG-5">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="xWthVOKGzl0oUf63PXnG-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="xWthVOKGzl0oUf63PXnG-3" target="xWthVOKGzl0oUf63PXnG-4">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="xWthVOKGzl0oUf63PXnG-3" value="Вийти з дому" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="362" y="190" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="xWthVOKGzl0oUf63PXnG-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="xWthVOKGzl0oUf63PXnG-4" target="xWthVOKGzl0oUf63PXnG-6">
+        <mxCell id="xWthVOKGzl0oUf63PXnG-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="xWthVOKGzl0oUf63PXnG-4" target="xWthVOKGzl0oUf63PXnG-44">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="xWthVOKGzl0oUf63PXnG-4" value="Пішком" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="362" y="290" width="120" height="60" as="geometry" />
+          <mxGeometry x="127" y="180" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="xWthVOKGzl0oUf63PXnG-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="xWthVOKGzl0oUf63PXnG-5" target="xWthVOKGzl0oUf63PXnG-6">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="xWthVOKGzl0oUf63PXnG-5" value="Сісти у машину" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="560" y="190" width="120" height="60" as="geometry" />
+          <mxGeometry x="570" y="190" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="xWthVOKGzl0oUf63PXnG-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="xWthVOKGzl0oUf63PXnG-6" target="xWthVOKGzl0oUf63PXnG-19">
           <mxGeometry relative="1" as="geometry" />
@@ -72,6 +63,9 @@
         <mxCell id="xWthVOKGzl0oUf63PXnG-19" value="Обрати Фільм" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
           <mxGeometry x="362" y="470" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="xWthVOKGzl0oUf63PXnG-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="xWthVOKGzl0oUf63PXnG-23" target="xWthVOKGzl0oUf63PXnG-41">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="xWthVOKGzl0oUf63PXnG-23" value="Закінчення фільму" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="247" y="860" width="120" height="60" as="geometry" />
         </mxCell>
@@ -95,6 +89,15 @@
         </mxCell>
         <mxCell id="xWthVOKGzl0oUf63PXnG-41" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="407" y="1070" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="xWthVOKGzl0oUf63PXnG-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="xWthVOKGzl0oUf63PXnG-44" target="xWthVOKGzl0oUf63PXnG-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xWthVOKGzl0oUf63PXnG-48" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="xWthVOKGzl0oUf63PXnG-44" target="xWthVOKGzl0oUf63PXnG-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xWthVOKGzl0oUf63PXnG-44" value="Вийти з дому" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="362" y="180" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
